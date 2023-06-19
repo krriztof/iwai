@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/iwai/static/css/main.04c60329.css",
+    "main.js": "/iwai/static/js/main.56897c08.js",
+    "static/js/787.3f9a6cb1.chunk.js": "/iwai/static/js/787.3f9a6cb1.chunk.js",
+    "static/media/zdj1.png": "/iwai/static/media/zdj1.69198a1c730458d9b5a6.png",
+    "static/media/zdj2.jpg": "/iwai/static/media/zdj2.ad20e1d18dcc61df9376.jpg",
+    "index.html": "/iwai/index.html",
+    "main.04c60329.css.map": "/iwai/static/css/main.04c60329.css.map",
+    "main.56897c08.js.map": "/iwai/static/js/main.56897c08.js.map",
+    "787.3f9a6cb1.chunk.js.map": "/iwai/static/js/787.3f9a6cb1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04c60329.css",
+    "static/js/main.56897c08.js"
+  ]
+}
